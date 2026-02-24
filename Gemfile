@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-ruby '3.2.9'
+ruby '3.2.10'
 
 gem 'bootsnap',        '1.16.0', require: false
 gem 'concurrent-ruby', '1.3.4'
@@ -23,7 +23,7 @@ end
 group :development do
   gem 'irb',                 '1.15.2'
   gem 'repl_type_completor', '0.1.10'
-  gem 'solargraph',          '0.56.2'
+  gem 'solargraph',          '0.58.2'
   gem 'web-console',         '4.2.0'
 end
 
