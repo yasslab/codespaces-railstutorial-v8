@@ -54,13 +54,13 @@
 より良い学習体験に繋げるため、本テンプレートには以下の VS Code 拡張機能がデフォルトで入っています。
 
 - [:octocat: Shopify/ruby-lsp](https://github.com/Shopify/ruby-lsp):
-  - Ruby コードを色分けして表示するハイライト機能や、コード補完機能などが使えます（以下は[公式のデモ動画](https://github.com/Shopify/ruby-lsp/tree/main/vscode#features)です）\
-  ![Ruby LSP Official DEMO](https://i.gyazo.com/71a5c5114b7836d942a5145ca58eadb9.gif) \
-  参考記事: [Ruby LSPのコードナビゲーションで強化された主な機能 - TechRacho](https://techracho.bpsinc.jp/hachi8833/2024_07_29/143652)
+  - Ruby コードを色分けして表示するハイライト機能や、コード補完機能などが使えます。 \
+    [公式ドキュメント](https://shopify.github.io/ruby-lsp/#general-features)ではデモ動画もご覧いただけます。
+  - 参考記事: [Ruby LSPのコードナビゲーションで強化された主な機能 - TechRacho](https://techracho.bpsinc.jp/hachi8833/2024_07_29/143652)
 
 - [:octocat: castwide/vscode-solargraph](https://github.com/castwide/vscode-solargraph):
-  - Ruby コードの定義元が調べられるコードジャンプ機能や、ドキュメント表示機能などが使えます（以下は[公式のデモ動画](https://github.com/castwide/vscode-solargraph#readme)です） \
-  ![Solargraph Official DEMO](https://i.gyazo.com/5fac6a81088d814a5b8354431239b03d.gif)
+  - Ruby コードの定義元が調べられるコードジャンプ機能や、ドキュメント表示機能などが使えます。\
+    公式ページではデモ動画もご覧いただけます。
 
 RuboCop によるコード整形、Ruby 公式デバッガーなどの拡張機能はお好みで追加してください。本テンプレートでは必要最低限の拡張機能に留めています。
 
